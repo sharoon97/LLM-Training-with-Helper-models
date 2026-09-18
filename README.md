@@ -6,7 +6,7 @@ Unlike conventional knowledge distillation, this method does not train the stude
 
 ## Research note
 
-The architecture, methodology, and experimental results are described in the [research note](docs/ResearchNpte.pdf).
+The architecture, methodology, and experimental results are described in the [research note](docs/ResearchNote.pdf).
 
 ## Research question
 
