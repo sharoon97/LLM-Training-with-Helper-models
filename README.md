@@ -4,6 +4,10 @@ This project investigates whether a small, specialized language model can accele
 
 Unlike conventional knowledge distillation, this method does not train the student to imitate the helper's output probabilities. Instead, it transfers learned hidden representations directly through the architecture.
 
+## Research note
+
+The architecture, methodology, and experimental results are described in the [research note](docs/ResearchNpte.pdf).
+
 ## Research question
 
 Can a pretrained local-attention model provide useful phrase-level features to a long-range student model, thereby improving the student's learning efficiency?
