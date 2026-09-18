@@ -1,4 +1,4 @@
-# Helper-Model Transformers for Language Modeling
+# Improving LLM learning via Helper Models
 
 This project investigates whether a small, specialized language model can accelerate the training of a larger model with a complementary attention pattern. A **helper model** learns short-range linguistic structure with sliding-window attention, while a **student model** uses dilated attention to model longer-range dependencies. Cross-attention blocks allow the student to retrieve representations from the helper during training and inference.
 
